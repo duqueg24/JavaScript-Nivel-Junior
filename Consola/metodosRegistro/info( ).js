@@ -1,0 +1,1 @@
+console.info("es un mensaje informativo");
