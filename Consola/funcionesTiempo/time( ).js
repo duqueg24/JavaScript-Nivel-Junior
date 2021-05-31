@@ -6,4 +6,4 @@ console.time();
 // determinada. Cuando llame console.timeEnd()con el 
 // mismo nombre, el navegador mostrará el tiempo, en 
 // milisegundos, que transcurrió desde que se inició
-// el temporizador.
+// el temporizador git.
